@@ -1,19 +1,30 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
+* Ph.D in Theoretical Particle Physics, Università degli Studi di Milano, 2024 (expected)
+* M.Sc. in Theoretical Physics, Università degli Studi di Milano, 2021
+* B.Sc. in Physics, Università degli Studi di Milano, 2018
 
+## Detailed version of my Curriculum Vitae. 
+
+{% include base_path %}
+<iframe src="../files/Curriculum_Vitae.pdf" style="width:100%; height:1000px;" frameborder="0"></iframe> <!-- pdf viewer -->
+
+
+<!--
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Theoretical Particle Physics, Università degli Studi di Milano, 2024 (expected)
+* M.Sc. in Theoretical Physics, Università degli Studi di Milano, 2021
+* B.Sc. in Physics, Università degli Studi di Milano, 2018
+
 
 Work experience
 ======
@@ -31,7 +42,9 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
   
+
 Skills
 ======
 * Skill 1
@@ -40,6 +53,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
 
 Publications
 ======
@@ -59,6 +73,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+ 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

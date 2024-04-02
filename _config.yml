@@ -25,11 +25,10 @@ repository               : "DavideMT/DavideMT.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Davide Maria Tagliabue"
+  avatar           : "picture.jpg"
+  name             : "D.M. Tagliabue"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in theoretical particle physics, working on Quantum Chronodynamics"
-
   location         : # "Via Giovanni Celoria 16, 20133 Milano"
   employer         : "Università degli Studi di Milano"
   uri              : # URL
