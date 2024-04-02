@@ -12,7 +12,11 @@ redirect_from:
 * M.Sc. in Theoretical Physics, Università degli Studi di Milano, 2021
 * B.Sc. in Physics, Università degli Studi di Milano, 2018
 
-## Detailed version of my Curriculum Vitae. 
+
+## Detailed version of my Curriculum Vitae 
+
+Download my curriculum vitae
+<a href="../files/Curriculum_Vitae.pdf" download> here</a>.
 
 {% include base_path %}
 <iframe src="../files/Curriculum_Vitae.pdf" style="width:100%; height:1000px;" frameborder="0"></iframe> <!-- pdf viewer -->
