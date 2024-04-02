@@ -5,4 +5,7 @@ permalink: /notes/
 author_profile: true
 ---
 
-This is a work in progress!
+## Introduction to Lorentrz transformations
+[Here](../files/Notes_Lorentz_transformations.pdf) you can find a brefe introduction to Lorentz transformations
+
+[Here](../files/QFT_exercises.pdf) you can find a brefe introduction to Lorentz transformations 

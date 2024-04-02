@@ -8,4 +8,4 @@ date: 2023-10-27
 location: "Oxford, UK"
 ---
 
-Invited talk at the University of Oxford
+Invited talk at the [University of Oxford](https://www.ox.ac.uk)
