@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "A fresh look at the nested soft-collinear subtraction scheme: NNLO QCD corrections to N-gluon final states in quark-antiquark annihilation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'We employ the nested soft-collinear subtraction scheme to compute NNLO QCD corrections for gluonic jet production, consolidating infrared subtraction terms into recurring structures for streamlined computations. We demonstrate the cancellation of singularities in the quark-antiquark to N-gluon process, showcasing the broad applicability of this scheme.'
+date: 2024-02-02
+venue: 'JHEP Journal'
+paperurl: 'https://inspirehep.net/files/a9a350fbb5aece34645104e32a37ecae'
+citation: 'F. Devoto, K. Melnikov, R. Röntsch, C. Signorile-Signorile, D.M. Tagliabue.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We describe how the nested soft-collinear subtraction scheme can be used to compute the next-to-next-to-leading order (NNLO) QCD corrections to the production of \\( \textit{an arbitrary number of gluonic jets} \\) in hadron collisions. We show that the infrared subtraction terms can be combined into recurring structures that in many cases are simple iterations of those terms known from next-to-leading order. The way that these recurring structures are identified and computed is fairly general, and can be applied to any partonic process. As an example, we explicitly demonstrate the cancellation of all singularities in the fully-differential cross section for the \\( q\bar{q} \to X + N g \\) process at NNLO in QCD. The finite remainder of the NNLO QCD contribution, which arises upon cancellation of all \\( \epsilon\\)-poles, is expressed via relatively simple formulas, which can be implemented in a numerical code in a straightforward way. Our approach can be extended to describe arbitrary processes at NNLO in QCD; the largest remaining challenge at this point is the combinatorics of quark and gluon collinear limits.
