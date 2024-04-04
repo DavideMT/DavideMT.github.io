@@ -15,7 +15,7 @@ Here is the list of current courses:
 
 | Course | Academic Year | Degree | Official Website | Useful links |
 |--------|---------------|--------|------------------|--------------|
-| *Quantum Field Theory 1* | 03/2024 - on going | Master's degree in Physics |[click here](https://www.unimi.it/en/education/degree-programme-courses/2024/quantum-field-theory-1) | - Collection of [exercises](../files/QFT_exercises.pdf) <br> - [Notes](../files/Notes_Basics_QFT.pdf) on Lorentz symmetry |
+| *Quantum Field Theory 1* | 03/2024 - on going | Master's degree in Physics |[click here](https://www.unimi.it/en/education/degree-programme-courses/2024/quantum-field-theory-1) | - [Ariel webpage](https://myariel.unimi.it/course/view.php?id=2597) for students <br> - Collection of [exercises](../files/QFT_exercises.pdf) <br> - [Notes](../files/Notes_Basics_QFT.pdf) on Lorentz symmetry |
 | *Physics and Informatics* | 03/2024 - on going | Bachelor's degree in Pharmaceutical Sciences |[click here](https://www.unimi.it/en/education/degree-programme-courses/2024/physics-and-informatics) | [Ariel webpage](https://elearning.unimi.it/authentication/skin/ariel2/login.aspx?url=https%3a%2f%2fnnerif.ariel.ctu.unimi.it%3a443%2fv5%2fhome%2fDefault.aspx&service=https%3a%2f%2fnnerif.ariel.ctu.unimi.it%2fv5&c=true) for students |
 
 ---
