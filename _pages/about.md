@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  div {
+    text-align: justify;
+  }
+</style>
+
 ...
 
 ## Work in progress

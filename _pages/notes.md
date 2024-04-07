@@ -5,6 +5,12 @@ permalink: /notes/
 author_profile: true
 ---
 
+<style>
+  div {
+    text-align: justify;
+  }
+</style>
+
 ## Basics of Lorentz symmetry on spacetime and fields [pdf](../files/Notes_Basics_QFT.pdf){: .btn--icon}
 Here I have compiled some details regarding the effects of Lorentz transformations both on spacetime and on fields. These notes should be understood as a collection of thoughts that might be worth reading before approaching an introductory course in Quantum Field Theory.
 

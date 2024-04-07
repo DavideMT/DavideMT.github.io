@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<style>
+  div {
+    text-align: justify;
+  }
+</style>
 
 
 During my doctoral studies, I have been (and still am) a tutor for several courses. My tutoring activities include providing theoretical lessons, guiding students through exercises, holding office hours to answer any questions, and supervising exams.

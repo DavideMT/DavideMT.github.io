@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 ## Education
 <!-- * Ph.D in Theoretical Particle Physics, Università degli Studi di Milano, 2024 (expected)
 * M.Sc. in Theoretical Physics, Università degli Studi di Milano, 2021
@@ -20,19 +21,19 @@ redirect_from:
     <td><b> Supervisor </b></td>
   </tr>
   <tr>
-    <td> 2024 (expected) </td>
+    <td> 2021 - ongoing </td>
     <td> Ph.D. in Theoretical Particle Physics  </td>
     <td> Università degli Studi di Milano </td>
     <td> <a href="https://inspirehep.net/authors/1056069?ui-citation-summary=true"> Raoul Röntsch </a> </td>
   </tr>
   <tr>
-    <td> 2021 </td>
+    <td> 2018 - 2021 </td>
     <td> M.Sc. in Theoretical Physics  </td>
     <td> Università degli Studi di Milano </td>
     <td> <a href="https://inspirehep.net/authors/1009661?ui-citation-summary=true"> Stefano Forte </a> </td>
   </tr>
   <tr>
-    <td> 2018 </td>
+    <td> 2015 - 2018 </td>
     <td> B.Sc. in Physics  </td>
     <td> Università degli Studi di Milano </td>
     <td> <a href="https://inspirehep.net/authors/1014542?ui-citation-summary=true"> Sergio Caracciolo </a> </td>
