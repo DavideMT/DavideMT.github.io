@@ -8,15 +8,43 @@ redirect_from:
 ---
 
 ## Education
-* Ph.D in Theoretical Particle Physics, Università degli Studi di Milano, 2024 (expected)
+<!-- * Ph.D in Theoretical Particle Physics, Università degli Studi di Milano, 2024 (expected)
 * M.Sc. in Theoretical Physics, Università degli Studi di Milano, 2021
-* B.Sc. in Physics, Università degli Studi di Milano, 2018
+* B.Sc. in Physics, Università degli Studi di Milano, 2018 -->
 
+<table border="1">
+  <tr style="background-color: #f2f2f2;">
+    <td><b> Year </b></td>
+    <td><b> Degree </b></td>
+    <td><b> Where </b></td>
+    <td><b> Supervisor </b></td>
+  </tr>
+  <tr>
+    <td> 2024 (expected) </td>
+    <td> Ph.D. in Theoretical Particle Physics  </td>
+    <td> Università degli Studi di Milano </td>
+    <td> <a href="https://inspirehep.net/authors/1056069?ui-citation-summary=true"> Raoul Röntsch </a> </td>
+  </tr>
+  <tr>
+    <td> 2021 </td>
+    <td> M.Sc. in Theoretical Physics  </td>
+    <td> Università degli Studi di Milano </td>
+    <td> <a href="https://inspirehep.net/authors/1009661?ui-citation-summary=true"> Stefano Forte </a> </td>
+  </tr>
+  <tr>
+    <td> 2018 </td>
+    <td> B.Sc. in Physics  </td>
+    <td> Università degli Studi di Milano </td>
+    <td> <a href="https://inspirehep.net/authors/1014542?ui-citation-summary=true"> Sergio Caracciolo </a> </td>
+  </tr>
+</table>
+
+---
 
 ## Detailed version of my Curriculum Vitae 
 
 Download my curriculum vitae
-<a href="../files/Curriculum_Vitae.pdf" download> here</a>.
+<a href="../files/Curriculum_Vitae.pdf" download> here</a>{: .btn--icon}
 
 {% include base_path %}
 <iframe src="../files/Curriculum_Vitae.pdf" style="width:100%; height:1000px;" frameborder="0"></iframe> <!-- pdf viewer -->
