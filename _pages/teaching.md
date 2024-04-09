@@ -32,17 +32,20 @@ Here is the list of current courses:
     <td> Master's degree in Physics </td>
     <td> <a href="https://www.unimi.it/en/education/degree-programme-courses/2024/quantum-phisycs-2"> click here </a> </td>
     <td> - <a href="https://myariel.unimi.it/course/view.php?id=2597"> Ariel webpage</a> for students 
-           <br>
-           - Collection of <a href="../files/QFT_exercises.pdf"> exercises</a> 
-           <br>
-           - <a href="../files/Notes_Basics_QFT.pdf"> Notes</a> on Lorentz symmetry </td>
+         <br>
+         - Collection of <a href="../files/QFT_exercises.pdf"> exercises</a> 
+         <br>
+         - <a href="../files/Notes_Basics_QFT.pdf"> Notes</a> on Lorentz symmetry </td>
   </tr>
   <tr>
     <td><i> Physics and Informatics </i></td>
     <td> 03/2024 - on going </td>
     <td> Bachelor's degree in Pharmaceutical Sciences </td>
     <td> <a href="https://www.unimi.it/en/education/degree-programme-courses/2024/physics-and-informatics"> click here </a> </td>
-    <td> <a href="https://elearning.unimi.it/authentication/skin/ariel2/login.aspx?url=https%3a%2f%2fnnerif.ariel.ctu.unimi.it%3a443%2fv5%2fhome%2fDefault.aspx&service=https%3a%2f%2fnnerif.ariel.ctu.unimi.it%2fv5&c=true"> Ariel webpage</a> for students </td>
+    <td> - <a href="https://elearning.unimi.it/authentication/skin/ariel2/login.aspx?url=https%3a%2f%2fnnerif.ariel.ctu.unimi.it%3a443%2fv5%2fhome%2fDefault.aspx&service=https%3a%2f%2fnnerif.ariel.ctu.unimi.it%2fv5&c=true"> Ariel webpage</a> for students
+         <br>
+         - Collection of <a href="../files/Exercises_Pharmaceutical_Sciences.pdf"> exercises</a>  
+         </td>
   </tr>
 </table>
 
