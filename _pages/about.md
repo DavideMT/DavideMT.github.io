@@ -20,7 +20,7 @@ I was born in [Milan](https://www.google.com/maps/place/Milano+MI/@45.4627338,9.
 ## My current work
 My research focuses on precision calculations for the phenomenology of hadron colliders. Currently, I am developing methods in perturbative [Quantum Chromodynamics (QCD)](https://en.wikipedia.org/wiki/Quantum_chromodynamics) to provide highly accurate theoretical predictions. These predictions serve as a test against experimental data collected at the Large Hadron Collider (LHC), enabling deeper investigations into the [Standard Model](https://en.wikipedia.org/wiki/Standard_Model) of particle physics and enhancing the potential to discover physics beyond it.
 
-In the context of infrared (IR) divergences, my primary research focuses on: 
+In the context of infrared (IR) divergences, my primary research areas include: 
 - improving a particular method for dealing with IR infinities called <i>**Nested-Stoft Collinear subtraction scheme**</i>
 - **threshold resummation theory**
 - **SMEFT theory**
