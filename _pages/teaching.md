@@ -30,7 +30,7 @@ Here is the list of current courses:
     <td><i> Quantum Field Theory 1 </i></td>
     <td> 03/2024 - on going </td>
     <td> Master's degree in Physics </td>
-    <td> <a href="https://www.unimi.it/en/education/degree-programme-courses/2024/quantum-phisycs-2"> click here </a> </td>
+    <td> <a href="https://www.unimi.it/en/education/degree-programme-courses/2024/quantum-field-theory-1"> click here </a> </td>
     <td> - <a href="https://myariel.unimi.it/course/view.php?id=2597"> Ariel webpage</a> for students 
          <br>
          - Collection of <a href="../files/QFT_exercises.pdf"> exercises</a> 
