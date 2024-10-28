@@ -12,11 +12,11 @@ author_profile: true
 </style>
 
 
-During my doctoral studies, I have been (and still am) a tutor for several courses. My tutoring activities include providing theoretical lessons, guiding students through exercises, holding office hours to answer any questions, and supervising exams.
+During my doctoral studies, I have been the tutor for several courses. My tutoring activities include providing theoretical lessons, guiding students through exercises, holding office hours to answer any questions, and supervising exams.
 
 ---
 
-Here is the list of current courses:
+List of the courses:
 
 <table border="1">
   <tr style="background-color: #f2f2f2;">
@@ -28,7 +28,7 @@ Here is the list of current courses:
   </tr>
   <tr>
     <td><i> Quantum Field Theory 1 </i></td>
-    <td> 03/2024 - on going </td>
+    <td> 03/2024 - 09/2024 </td>
     <td> Master's degree in Physics </td>
     <td> <a href="https://www.unimi.it/en/education/degree-programme-courses/2024/quantum-field-theory-1"> click here </a> </td>
     <td> - <a href="https://myariel.unimi.it/course/view.php?id=2597"> Ariel webpage</a> for students 
@@ -39,27 +39,13 @@ Here is the list of current courses:
   </tr>
   <tr>
     <td><i> Physics and Informatics </i></td>
-    <td> 03/2024 - on going </td>
+    <td> 03/2024 - 09/2024 </td>
     <td> Bachelor's degree in Pharmaceutical Sciences </td>
     <td> <a href="https://www.unimi.it/en/education/degree-programme-courses/2024/physics-and-informatics"> click here </a> </td>
     <td> - <a href="https://elearning.unimi.it/authentication/skin/ariel2/login.aspx?url=https%3a%2f%2fnnerif.ariel.ctu.unimi.it%3a443%2fv5%2fhome%2fDefault.aspx&service=https%3a%2f%2fnnerif.ariel.ctu.unimi.it%2fv5&c=true"> Ariel webpage</a> for students
          <br>
          - Collection of <a href="../files/Exercises_Pharmaceutical_Sciences.pdf"> exercises</a>  
          </td>
-  </tr>
-</table>
-
----
-
-Here is the list of past courses:
-
-<table border="1">
-  <tr style="background-color: #f2f2f2;">
-    <td width="18%"><b> Course </b></td>
-    <td width="15%"><b> Academic Year </b></td>
-    <td width="33%"><b> Degree </b></td>
-    <td width="13%"><b> Official Website </b></td>
-    <td width="21%"><b> Useful links </b></td>
   </tr>
   <tr>
     <td><i> Quantum Mechanics 2 </i></td>

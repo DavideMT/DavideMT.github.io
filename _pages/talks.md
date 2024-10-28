@@ -12,6 +12,18 @@ author_profile: true
 </style>
 
 
+## The Universe at the Infinitely Small Scale: The Standard Model
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Date:** 2024, October 25
+<!-- -->  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Conference:** Invited talk at the [Polytechnic University of Milan](https://www.polimi.it/en)
+<!-- -->  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Location:** Milan, Italy 
+<!-- -->  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Slides:** [pdf](../files/Politalks_2024.pdf){: .btn--icon}
+
+
+
 ## A fresh look at the Nested Soft-Collinear subtraction scheme: NNLO QCD corrections to N-gluon final state quark-antiquark annihilation
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Date:** 2024, March 13

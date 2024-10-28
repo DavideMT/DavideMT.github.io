@@ -21,7 +21,13 @@ redirect_from:
     <td><b> Supervisor </b></td>
   </tr>
   <tr>
-    <td> 2021 - ongoing </td>
+    <td> 2024 - ongoing </td>
+    <td> Postdoc in Theoretical Particle Physics  </td>
+    <td> Karlsruhe Institute of Technology </td>
+    <td> <a href="https://inspirehep.net/authors/997847?ui-citation-summary=true"> Kirill Melnikov </a> </td>
+  </tr>
+  <tr>
+    <td> 2021 - 2024 </td>
     <td> Ph.D. in Theoretical Particle Physics  </td>
     <td> Università degli Studi di Milano </td>
     <td> <a href="https://inspirehep.net/authors/1056069?ui-citation-summary=true"> Raoul Röntsch </a> </td>
