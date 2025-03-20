@@ -23,7 +23,7 @@ redirect_from:
   <tr>
     <td> 2024 - ongoing </td>
     <td> Postdoc in Theoretical Particle Physics  </td>
-    <td> Karlsruhe Institute of Technology </td>
+    <td> Karlsruher Institut für Technologie (TTP) </td>
     <td> <a href="https://inspirehep.net/authors/997847?ui-citation-summary=true"> Kirill Melnikov </a> </td>
   </tr>
   <tr>

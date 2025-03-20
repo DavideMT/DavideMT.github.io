@@ -12,6 +12,18 @@ author_profile: true
 </style>
 
 
+## New Frontiers of the Nested Soft-Collinear Subtraction Scheme
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Date:** 2024, December 19
+<!-- -->  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Conference:** [Christmas Meeting 2024](https://indico.cern.ch/event/1470467/) workshop
+<!-- -->  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Location:** Milan, Italy 
+<!-- -->  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Slides:** [pdf](../files/Christmas_Meeting_2024.pdf){: .btn--icon}
+
+
+
 ## The Universe at the Infinitely Small Scale: The Standard Model
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Date:** 2024, October 25

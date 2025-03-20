@@ -1,8 +1,8 @@
 ---
 title: "A fresh look at the nested soft-collinear subtraction scheme: NNLO QCD corrections to N-gluon final states in quark-antiquark annihilation" 
 collection: publications
-permalink: /publication/publications_Ngluons
-excerpt: 'We employ the <i> nested soft-collinear subtraction scheme </i> to compute NNLO QCD corrections for gluonic jet production, consolidating infrared subtraction terms into recurring structures for streamlined computations. We demonstrate the cancellation of singularities in the quark-antiquark to N-gluon process, showcasing the broad applicability of this scheme.'
+permalink: /publication/qqb_Ng
+excerpt: ' '
 date: 2024-02-02
 venue: 'JHEP Journal'
 paperurl: 'https://inspirehep.net/literature/2714511'

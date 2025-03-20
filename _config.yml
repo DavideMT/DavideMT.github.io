@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Davide Maria Tagliabue"
 title_separator          : "-"
 name                     : &name "Davide Maria Tagliabue"
-description              : &description "Ph.D. Student"
+description              : &description "Postdoc"
 url                      : https://DavideMT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DavideMT/DavideMT.github.io"
@@ -28,11 +28,11 @@ author:
   avatar           : "picture.jpg"
   name             : "D.M. Tagliabue"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student in theoretical particle physics, working on Quantum Chromodynamics"
+  bio              : "Postdoc researcher in theoretical particle physics, working on Quantum Chromodynamics"
   location         : # "Via Giovanni Celoria 16, 20133 Milano"
-  employer         : "Università degli Studi di Milano"
+  employer         : "KIT (TTP)"
   uri              : # URL
-  email            : "davide.tagliabue@unimi.it" 
+  email            : "davide.tagliabue@kit.edu" 
 
   # Academic websites
   inspire          : "https://inspirehep.net/authors/2690393?ui-citation-summary=true"
