@@ -11,6 +11,17 @@ author_profile: true
   }
 </style>
 
+## Towards a general subtraction formula for NNLO QCD corrections to processes at hadron colliders
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Date:** 2025, May 22
+<!-- -->  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Conference:** [LoopFest XXIII](https://indico.cern.ch/event/1446102/) conference
+<!-- -->  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Location:** Edmonton, Canada 
+<!-- -->  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Slides:** [pdf](../files/LoopFest_XXIII_2025.pdf){: .btn--icon}
+
+
 
 ## New Frontiers of the Nested Soft-Collinear Subtraction Scheme
 
